@@ -1,0 +1,384 @@
+Loading model from: models/v8_103342_latest_sim_results.pkl
+
+Monte Carlo Simulation Results
+===================================
+GVKEY: 103342
+Name: SSE
+Timestamp:  20250528_200220
+
+Estimated Value (V0):  53949.64 millions
+Bankrupt simulations: 241787 out of 1000000 ,    24.1787 %
+
+Model Parameters
+===================================
+R_0: 2229.65
+L_0: 0
+X_0: 890.8
+CapEx_Ratio_0: 0.18395330909465085
+CapEx_Ratio_longterm: 0.08282396644584175
+Dep_Ratio: 0.0105759921646386
+PPE_0: 17461.1
+mu_0: 0.023439084126767068
+sigma_0: 0.1451906623264087
+eta_0: 0.03
+rho_R_mu: 0.0
+mu_mean: 0.0075
+sigma_mean: 0.05
+taxrate: 0.2521574654214446
+r_f: 0.0075527253608402845
+kappa_mu: 0.09
+kappa_sigma: 0.0299573227355399
+kappa_eta: 0.0299573227355399
+kappa_gamma: 0.0299573227355399
+kappa_phi: 0.0299573227355399
+kappa_capex: 0.0299573227355399
+gamma_0: 0.7678147037531856
+gamma_mean: 0.691033233377867
+phi_0: 0.06906491431177234
+phi_mean: 0.03453245715588617
+lambda_R: -0.0025658346912662937
+lambda_mu: -0.0017130822328052732
+lambda_gamma: 0.0003337782005807283
+T: 25
+dt: 1
+M: 1
+simulations: 1000000
+financing_cost: 0.05
+financing_grid: [ 0.    4.15  8.3  16.6  33.2 ]
+seasonal_factors: {1: np.float64(0.9108710895534871), 2: np.float64(0.9108710895534871), 3: np.float64(1.0910373605920056), 4: np.float64(1.0872204603010205)}
+Loading model from: models/v8_225094_latest_sim_results.pkl
+
+Monte Carlo Simulation Results
+===================================
+GVKEY: 225094
+Name: VESTAS
+Timestamp:  20250528_200422
+
+Estimated Value (V0):  4596.04 millions
+Bankrupt simulations: 280464 out of 1000000 ,    28.0464 %        
+
+Model Parameters
+===================================
+R_0: 6141.0
+L_0: 707
+X_0: 3977.0
+CapEx_Ratio_0: 0.03363562006368785
+CapEx_Ratio_longterm: 0.03064516248618381
+Dep_Ratio: 0.07997957621234797
+PPE_0: 2353.0
+mu_0: 0.023439084126767068
+sigma_0: 0.1451906623264087
+eta_0: 0.03
+rho_R_mu: 0.0
+mu_mean: 0.0075
+sigma_mean: 0.05
+taxrate: 0.3014018691588785
+r_f: 0.0075527253608402845
+kappa_mu: 0.09
+kappa_sigma: 0.0299573227355399
+kappa_eta: 0.0299573227355399
+kappa_gamma: 0.0299573227355399
+kappa_phi: 0.0299573227355399
+kappa_capex: 0.0299573227355399
+gamma_0: 0.9462538015446136
+gamma_mean: 0.8516284213901523
+phi_0: 0.06906491431177234
+phi_mean: 0.03453245715588617
+lambda_R: -0.0025658346912662937
+lambda_mu: -0.0017130822328052732
+lambda_gamma: 0.0003337782005807283
+T: 25
+dt: 1
+M: 1
+simulations: 1000000
+financing_cost: 0.05
+financing_grid: [ 0.  5. 10. 20. 40.]
+seasonal_factors: {1: np.float64(0.630423682254468), 2: np.float64(0.8845683999612192), 3: np.float64(1.228116213683224), 4: np.float64(1.2568917041010892)}
+Loading model from: models/v8_225597_latest_sim_results.pkl
+
+Monte Carlo Simulation Results
+===================================
+GVKEY: 225597
+Name: FORTUM
+Timestamp:  20250528_200619
+
+Estimated Value (V0):  21804.14 millions
+Bankrupt simulations: 30852 out of 1000000 ,    3.0852 %
+
+Model Parameters
+===================================
+R_0: 1435.0
+L_0: 907
+X_0: 4379.0
+CapEx_Ratio_0: 0.07415812746317109
+CapEx_Ratio_longterm: 0.057867875995603946
+Dep_Ratio: 0.014627514894079912
+PPE_0: 5677.0
+mu_0: 0.023439084126767068
+sigma_0: 0.1451906623264087
+eta_0: 0.03
+rho_R_mu: 0.0
+mu_mean: 0.0075
+sigma_mean: 0.05
+taxrate: 0.24
+r_f: 0.0075527253608402845
+kappa_mu: 0.09
+kappa_sigma: 0.0299573227355399
+kappa_eta: 0.0299573227355399
+kappa_gamma: 0.0299573227355399
+kappa_phi: 0.0299573227355399
+kappa_capex: 0.0299573227355399
+gamma_0: 0.7360346160368821
+gamma_mean: 0.6624311544331939
+phi_0: 0.06906491431177234
+phi_mean: 0.03453245715588617
+lambda_R: -0.0025658346912662937
+lambda_mu: -0.0017130822328052732
+lambda_gamma: 0.0003337782005807283
+T: 25
+dt: 1
+M: 1
+simulations: 1000000
+financing_cost: 0.05
+financing_grid: [ 0.  5. 10. 20. 40.]
+seasonal_factors: {1: np.float64(1.2007812373896338), 2: np.float64(0.8212677352186334), 3: np.float64(0.8251416396300421), 4: np.float64(1.15280938776169)}
+Loading model from: models/v8_232646_latest_sim_results.pkl
+
+Monte Carlo Simulation Results
+===================================
+GVKEY: 232646
+Name: ORSTED
+Timestamp:  20250528_200842
+
+Estimated Value (V0):  405955.55 millions
+Bankrupt simulations: 392632 out of 1000000 ,    39.2632 %        
+
+Model Parameters
+===================================
+R_0: 21077.0
+L_0: 4198
+X_0: 37658.0
+CapEx_Ratio_0: 0.4645849900970819
+CapEx_Ratio_longterm: 0.1275963804368999
+Dep_Ratio: 0.013333807205313688
+PPE_0: 201694.0
+mu_0: 0.023439084126767068
+sigma_0: 0.1451906623264087
+eta_0: 0.03
+rho_R_mu: 0.0
+mu_mean: 0.0075
+sigma_mean: 0.05
+taxrate: 0.24
+r_f: 0.0075527253608402845
+kappa_mu: 0.09
+kappa_sigma: 0.0299573227355399
+kappa_eta: 0.0299573227355399
+kappa_gamma: 0.0299573227355399
+kappa_phi: 0.0299573227355399
+kappa_capex: 0.0299573227355399
+gamma_0: 0.7482811636811066
+gamma_mean: 0.673453047312996
+phi_0: 0.06906491431177234
+phi_mean: 0.03453245715588617
+lambda_R: -0.0025658346912662937
+lambda_mu: -0.0017130822328052732
+lambda_gamma: 0.0003337782005807283
+T: 25
+dt: 1
+M: 1
+simulations: 1000000
+financing_cost: 0.05
+financing_grid: [  0.   37.3  74.6 149.2 298.4]
+seasonal_factors: {1: np.float64(1.1829097247281664), 2: np.float64(0.8108842333172196), 3: np.float64(0.9500044255921782), 4: np.float64(1.0562016163624355)}
+Loading model from: models/v8_245628_latest_sim_results.pkl
+
+Monte Carlo Simulation Results
+===================================
+GVKEY: 245628
+Name: NORDEX
+Timestamp:  20250528_201041
+
+Estimated Value (V0):  4614.95 millions
+Bankrupt simulations: 382323 out of 1000000 ,    38.2323 %        
+
+Model Parameters
+===================================
+R_0: 2193.606
+L_0: 406.074
+X_0: 1154.12
+CapEx_Ratio_0: 0.020472088274209266
+CapEx_Ratio_longterm: 0.016550435373464414
+Dep_Ratio: 0.06757335108575536
+PPE_0: 537.27
+mu_0: 0.023439084126767068
+sigma_0: 0.1451906623264087
+eta_0: 0.03
+rho_R_mu: 0.0
+mu_mean: 0.0075
+sigma_mean: 0.05
+taxrate: 0.24
+r_f: 0.0075527253608402845
+kappa_mu: 0.09
+kappa_sigma: 0.0299573227355399
+kappa_eta: 0.0299573227355399
+kappa_gamma: 0.0299573227355399
+kappa_phi: 0.0299573227355399
+kappa_capex: 0.0299573227355399
+gamma_0: 0.9848428825863014
+gamma_mean: 0.8863585943276713
+phi_0: 0.06906491431177234
+phi_mean: 0.03453245715588617
+lambda_R: -0.0025658346912662937
+lambda_mu: -0.0017130822328052732
+lambda_gamma: 0.0003337782005807283
+T: 25
+dt: 1
+M: 1
+simulations: 1000000
+financing_cost: 0.05
+financing_grid: [ 0.  5. 10. 20. 40.]
+seasonal_factors: {1: np.float64(0.81385190231993), 2: np.float64(0.9752875425310615), 3: np.float64(1.0304332311749609), 4: np.float64(1.1804273239740473)}
+Loading model from: models/v8_318456_latest_sim_results.pkl
+
+Monte Carlo Simulation Results
+===================================
+GVKEY: 318456
+Name: SCATEC
+Timestamp:  20250528_201243
+
+Estimated Value (V0):  348121.01 millions
+Bankrupt simulations: 109378 out of 1000000 ,    10.937800000000001 %
+
+Model Parameters
+===================================
+R_0: 897.0
+L_0: 4455
+X_0: 3890.0
+CapEx_Ratio_0: 1.13882575871032
+CapEx_Ratio_longterm: 0.32760569882766544
+Dep_Ratio: 0.012209668931710814
+PPE_0: 24068.0
+mu_0: 0.023439084126767068
+sigma_0: 0.1451906623264087
+eta_0: 0.03
+rho_R_mu: 0.0
+mu_mean: 0.0075
+sigma_mean: 0.05
+taxrate: 0.24
+r_f: 0.0075527253608402845
+kappa_mu: 0.09
+kappa_sigma: 0.0299573227355399
+kappa_eta: 0.0299573227355399
+kappa_gamma: 0.0299573227355399
+kappa_phi: 0.0299573227355399
+kappa_capex: 0.0299573227355399
+gamma_0: 0.3110000650507432
+gamma_mean: 0.27990005854566885
+phi_0: 0.06906491431177234
+phi_mean: 0.03453245715588617
+lambda_R: -0.0025658346912662937
+lambda_mu: -0.0017130822328052732
+lambda_gamma: 0.0003337782005807283
+T: 25
+dt: 1
+M: 1
+simulations: 1000000
+financing_cost: 0.05
+financing_grid: [  0.    58.95 117.9  235.8  471.6 ]
+seasonal_factors: {1: np.float64(1.003124332135842), 2: np.float64(1.0058110542331138), 3: np.float64(1.056614526617885), 4: np.float64(0.9344500870131587)}
+Loading model from: models/v8_328809_latest_sim_results.pkl
+
+Monte Carlo Simulation Results
+===================================
+GVKEY: 328809
+Name: NEOEN
+Timestamp:  20250528_201502
+
+Estimated Value (V0):  3894.96 millions
+Bankrupt simulations: 991048 out of 1000000 ,    99.1048 %        
+
+Model Parameters
+===================================
+R_0: 121.55
+L_0: 196.7
+X_0: 521.8
+CapEx_Ratio_0: 2.560350660561321
+CapEx_Ratio_longterm: 0.43989985301781065
+Dep_Ratio: 0.008627226940900784
+PPE_0: 6197.8
+mu_0: 0.023439084126767068
+sigma_0: 0.1451906623264087
+eta_0: 0.03
+rho_R_mu: 0.0
+mu_mean: 0.0075
+sigma_mean: 0.05
+taxrate: 0.24
+r_f: 0.0075527253608402845
+kappa_mu: 0.09
+kappa_sigma: 0.0299573227355399
+kappa_eta: 0.0299573227355399
+kappa_gamma: 0.0299573227355399
+kappa_phi: 0.0299573227355399
+kappa_capex: 0.0299573227355399
+gamma_0: 0.34772380752003484
+gamma_mean: 0.3129514267680314
+phi_0: 0.06906491431177234
+phi_mean: 0.03453245715588617
+lambda_R: -0.0025658346912662937
+lambda_mu: -0.0017130822328052732
+lambda_gamma: 0.0003337782005807283
+T: 25
+dt: 1
+M: 1
+simulations: 1000000
+financing_cost: 0.05
+financing_grid: [ 0.  5. 10. 20. 40.]
+seasonal_factors: {1: np.float64(1.0111509650342825), 2: np.float64(1.0111509650342825), 3: np.float64(1.0197398921504037), 4: np.float64(0.957958177781031)}
+Loading model from: models/v8_329260_latest_sim_results.pkl
+
+Monte Carlo Simulation Results
+===================================
+GVKEY: 329260
+Name: ENCAVIS
+Timestamp:  20250528_201754
+
+Estimated Value (V0):  3344.96 millions
+Bankrupt simulations: 63766 out of 1000000 ,    6.376600000000001 %
+
+Model Parameters
+===================================
+R_0: 119.285
+L_0: 24015
+X_0: 329.447
+CapEx_Ratio_0: 0.2661168732170648
+CapEx_Ratio_longterm: 0.35467477362218824
+Dep_Ratio: 0.015601044450250469
+PPE_0: 2711.83
+mu_0: 0.023439084126767068
+sigma_0: 0.1451906623264087
+eta_0: 0.03
+rho_R_mu: 0.0
+mu_mean: 0.0075
+sigma_mean: 0.05
+taxrate: 0.24
+r_f: 0.0075527253608402845
+kappa_mu: 0.09
+kappa_sigma: 0.0299573227355399
+kappa_eta: 0.0299573227355399
+kappa_gamma: 0.0299573227355399
+kappa_phi: 0.0299573227355399
+kappa_capex: 0.0299573227355399
+gamma_0: 0.4061490136624603
+gamma_mean: 0.3655341122962143
+phi_0: 0.06906491431177234
+phi_mean: 0.03453245715588617
+lambda_R: -0.0025658346912662937
+lambda_mu: -0.0017130822328052732
+lambda_gamma: 0.0003337782005807283
+T: 25
+dt: 1
+M: 1
+simulations: 1000000
+financing_cost: 0.05
+financing_grid: [ 0.  5. 10. 20. 40.]
+seasonal_factors: {1: np.float64(0.8489424381577929), 2: np.float64(1.195762010895474), 3: np.float64(1.1302648895987744), 4: np.float64(0.8250306613479585)}
