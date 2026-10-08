@@ -1,0 +1,24 @@
+# Runs a quick check that all model versions still run, on every pull request
+# and on every push to main. See tests/smoke_test.py for what is checked.
+name: Model check
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  smoke-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run all model versions with few paths
+        run: python tests/smoke_test.py
